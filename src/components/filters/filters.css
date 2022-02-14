@@ -1,0 +1,27 @@
+.filter-option {
+    margin-top: 40px;
+}
+
+.filters {
+    display: flex;
+    
+}
+
+.options {
+    margin-right: 28px;
+    display: flex;
+    width: 169px;
+    height: 44px;
+    border: 1px solid var(--border-color);
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: var(--text);
+    font-weight: bold;
+    font-style: normal;
+    line-height: 19px;
+    cursor: pointer;
+}
+
+.down-arrow-symbol {
+    margin-left: 10.2px;
+}

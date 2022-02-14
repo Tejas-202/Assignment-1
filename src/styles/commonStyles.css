@@ -1,0 +1,14 @@
+.max-width {
+    max-width: 1110px;
+    margin: 0px auto;
+}
+
+.absolute-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-margin {
+    margin-left: 90px;
+}
