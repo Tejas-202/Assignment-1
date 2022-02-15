@@ -13,6 +13,7 @@ function OwnerDetailsCard() {
                     <div className='owner-interest'>Aspiring Front End Developer</div>
                 </div>
             </div>
+            <div className='seperation-line'></div>
             <div className='learning-details'> 
                 <div className='haeding'>Top Areas</div>
                 <div className='expert-list'>

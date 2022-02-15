@@ -24,7 +24,7 @@ const tabList = [
 function Navbar() {
   return (
     <div className='navbar'>
-      <div className='max-width logo-tabs'>
+      <div className='max-width-navbar absolute-center logo-tabs'>
         <img src={logo} alt="logo" className='logo absolute-center' />
         <div className='tab-list'>
           {tabList.map((tabs) => {
